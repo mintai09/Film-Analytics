@@ -1,6 +1,6 @@
-# Film-Analytics
-## 2021.01.20 ~
-## With: @mintai09
+# Film-Analytics 🧠
+date: 2021.01.20 ~
+collaborator: @mintai09
 
 <p>
   <em>
